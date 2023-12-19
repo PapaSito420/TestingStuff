@@ -1,0 +1,4 @@
+/Users/andreymenshikov/Desktop/IDE HW/origin-master/K_P_2_1/libs/CMakeFiles/races_lib.dir
+/Users/andreymenshikov/Desktop/IDE HW/origin-master/K_P_2_1/libs/CMakeFiles/vihicles_lib.dir
+/Users/andreymenshikov/Desktop/IDE HW/origin-master/K_P_2_1/libs/CMakeFiles/edit_cache.dir
+/Users/andreymenshikov/Desktop/IDE HW/origin-master/K_P_2_1/libs/CMakeFiles/rebuild_cache.dir

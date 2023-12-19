@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Rabits_race.dir/main.cpp.o -o Rabits_race  -Wl,-rpath,"/Users/andreymenshikov/Desktop/IDE HW/origin-master/K_P_2_1/libs" libs/libvihicles_lib.dylib libs/libraces_lib.dylib 

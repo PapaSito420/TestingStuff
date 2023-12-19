@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libraces_lib.dylib -install_name @rpath/libraces_lib.dylib CMakeFiles/races_lib.dir/AirRace.cpp.o CMakeFiles/races_lib.dir/LandRace.cpp.o CMakeFiles/races_lib.dir/MixRace.cpp.o 
